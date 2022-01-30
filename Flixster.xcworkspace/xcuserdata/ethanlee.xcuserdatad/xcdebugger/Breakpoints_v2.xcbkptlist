@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF5CE1AF-7A36-4116-AA9C-80998E9FC5EA"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0868710-8A41-41D2-AACA-8E672131397B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flixster/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MovieDetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C0868710-8A41-41D2-AACA-8E672131397B - 9fba11321841d52a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixster.MovieDetailsViewController.movie.getter : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "Flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ethanlee/Documents/ethan%20ios%20class/Flixster/Flixster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "C0868710-8A41-41D2-AACA-8E672131397B - 508ac30fc56b083e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixster.MovieDetailsViewController.movie.setter : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "Flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ethanlee/Documents/ethan%20ios%20class/Flixster/Flixster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "C0868710-8A41-41D2-AACA-8E672131397B - 287be1169c294c63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixster.MovieDetailsViewController.movie.modify : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "Flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ethanlee/Documents/ethan%20ios%20class/Flixster/Flixster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "C0868710-8A41-41D2-AACA-8E672131397B - ea4ffc90e026900d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixster.MovieDetailsViewController.movie.modify : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ethanlee/Documents/ethan%20ios%20class/Flixster/Flixster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "C0868710-8A41-41D2-AACA-8E672131397B - 1c040a8aac0f8b7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixster.MovieDetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Flixster.MovieDetailsViewController"
+                  moduleName = "Flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ethanlee/Documents/ethan%20ios%20class/Flixster/Flixster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "C0868710-8A41-41D2-AACA-8E672131397B - c60f7ed2616ef5ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flixster.MovieDetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Flixster.MovieDetailsViewController&gt;"
+                  moduleName = "Flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ethanlee/Documents/ethan%20ios%20class/Flixster/Flixster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
